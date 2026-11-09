@@ -1,4 +1,4 @@
-[Note: no longer maintained.]
+[Note: no longer maintained - build moved to Unity. See [HalvesOfTria](https://github.com/TreeLizarde/HalvesOfTria).]
 
 Halves of Tria is set in the city of Chrysopoeia, in the aftermath of a great catastrophe. Its inhabitants are trapped in a stasis caused by an imbalance of power; they are unable to truly die. 
 
